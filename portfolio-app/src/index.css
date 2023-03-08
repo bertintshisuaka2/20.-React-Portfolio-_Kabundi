@@ -1,0 +1,102 @@
+body {
+  font-family: Work Sans;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+
+}
+
+.navbar, .navbar-brand {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  background-color: rgb(30, 120, 172);
+}
+
+.wrapper .sidebar {
+  background: rgb(214, 229, 245);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 225px;
+  height: 100%;
+  padding: 150px 0;
+  transition: all 0.5s ease;
+}
+
+.wrapper .sidebar .profilePicture {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.wrapper .sidebar .profilePicture img {
+  display: block;
+  width: 205px;
+  height: 180px;
+  border-radius: 100%;
+  margin: auto ;
+}
+
+.wrapper .sidebar .profilePicture h3 {
+  color: #416bd6;
+  margin: 10px 0 5px;
+}
+
+.wrapper .sidebar ul li a {
+  display: block;
+  padding: 13px 30px;
+  border-bottom: 1px solid #2a59ce;
+  font-size: 20px;
+}
+
+div.navbar-brand {
+  padding-top: 2em;
+  margin-bottom: 2em;
+}
+
+.navbar .navbar-brand > .navbar-item,
+.navbar .navbar-brand .navbar-link {
+  display: list-item;
+  color: #ffffff;
+}
+
+main {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: 30em;
+  margin-right: 30em;
+}
+
+.label {
+  text-align: left;
+}
+
+footer.footer {
+  background-color: #ffffff;
+}
+
+.githublogo {
+  width: 250px;
+	/* height: 50px; */
+  display: inline-block;
+  padding-right: 5%;
+	margin-bottom: 50px;
+	cursor: pointer;
+}
+
+.linkedinlogo {
+  width: 200px;
+  display: inline-block;
+  padding-right: 4%;
+	margin-bottom: 50px;
+	cursor: pointer;
+}
+
+
+@media only screen and (max-width: 1024px) {
+    main {
+      margin-top: 2em;
+      margin-bottom: 2em;
+      margin-left: 2em;
+      margin-right: 2em;
+    }
+}
