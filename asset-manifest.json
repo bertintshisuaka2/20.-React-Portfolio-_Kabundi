@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/20.-React-Portfolio-_Kabundi/portfolio-app/static/css/main.ec6a104b.css",
+    "main.js": "/20.-React-Portfolio-_Kabundi/portfolio-app/static/js/main.29e13bd2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/20.-React-Portfolio-_Kabundi/portfolio-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/MyPhoto1.jpeg": "/20.-React-Portfolio-_Kabundi/portfolio-app/static/media/MyPhoto1.268617123535ba5e7e55.jpeg",
+    "static/media/githubLogo.png": "/20.-React-Portfolio-_Kabundi/portfolio-app/static/media/githubLogo.bbd053b8c919a2370dc9.png",
+    "index.html": "/20.-React-Portfolio-_Kabundi/portfolio-app/index.html",
+    "main.ec6a104b.css.map": "/20.-React-Portfolio-_Kabundi/portfolio-app/static/css/main.ec6a104b.css.map",
+    "main.29e13bd2.js.map": "/20.-React-Portfolio-_Kabundi/portfolio-app/static/js/main.29e13bd2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/20.-React-Portfolio-_Kabundi/portfolio-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6a104b.css",
+    "static/js/main.29e13bd2.js"
+  ]
+}
