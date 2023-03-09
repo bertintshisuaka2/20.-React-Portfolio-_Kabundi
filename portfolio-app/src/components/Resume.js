@@ -12,7 +12,7 @@ function Resume() {
 
         <a
           className="button is-primary"
-          href={process.env.PUBLIC_URL + "/emily-mayeski-resume.pdf"}
+          href={"placeHolder"}
           target="_blank" rel="noreferrer"
         >
           <span className="icon">
@@ -26,11 +26,8 @@ function Resume() {
         <hr />
         <ul>
             <li>HTML, CSS, Javascript</li>
-            <li>OpenAPI, YAML, JSON</li>
-            <li>React, Next.js, Hugo</li>
-            <li>Markdown</li>
-            <li>Git</li>
-            <li>Github Repo Management</li>
+            <li>Node.js, SQL, MongoDB</li>
+            <li>Express.js</li>
         </ul>
       </div>
     </div>
